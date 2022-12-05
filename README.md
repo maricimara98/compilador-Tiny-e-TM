@@ -14,8 +14,9 @@
 Com o repositório aberto no terminal 
 `make all`
 
+:clapper: [Vídeo Demonstrativo](https://github.com/maricimara98/compilador-Tiny-e-TM/blob/main/teste.mp4)
 
-Exemplo para fiz de demostração `teste.tny`
+Exemplo para fins de demostração `teste.tny`
 ~~~
 { Caso de teste: }
 
