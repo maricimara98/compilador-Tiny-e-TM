@@ -1,0 +1,8 @@
+{ Caso de teste 1: }
+
+read x;
+
+while (x < 10)
+    x := x + 1
+endwhile;
+write x
